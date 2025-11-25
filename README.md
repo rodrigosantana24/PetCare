@@ -1,4 +1,4 @@
-# PetCare 🐾
+# PetCare 
 
 ## Sobre o Projeto
 
@@ -22,12 +22,6 @@ O projeto foi construído utilizando tecnologias modernas e robustas para garant
   * **Spring Boot:** Framework para a criação de aplicações Java de forma rápida e eficiente.
   * **Maven:** Para gerenciamento de dependências.
 
-### **Frontend**
-
-  * **ReactJS:** Biblioteca JavaScript para a construção da interface de usuário.
-
 ### **Banco de Dados**
 
   * **MySQL:** Sistema de gerenciamento de banco de dados relacional para armazenar todas as informações da plataforma.
-
-![alt text](image.png)
